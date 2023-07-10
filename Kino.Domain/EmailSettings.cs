@@ -1,6 +1,6 @@
 ﻿namespace Kino.Domain
 {
-    public class EmailSettings
+    public class EmailSettings /*201227*/
     {
         public string SmtpServer { get; set; }
         public string SmtpUserName { get; set; }

@@ -7,7 +7,7 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Kino.Services.Implementation
+namespace Kino.Services.Implementation /*201227*/
 {
     public class EmailSender:IEmailSender
     {

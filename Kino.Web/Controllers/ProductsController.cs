@@ -6,7 +6,7 @@ using Kino.Domain.DTO;
 using Kino.Domain.DomainModels;
 using Kino.Services.Interface;
 
-namespace Kino.Web.Controllers
+namespace Kino.Web.Controllers /*201227*/
 {
     public class ProductsController : Controller
     {

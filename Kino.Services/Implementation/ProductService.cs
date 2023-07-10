@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Kino.Services.Implementation
+namespace Kino.Services.Implementation /*201227*/
 {
     
     public class ProductService:IProductService

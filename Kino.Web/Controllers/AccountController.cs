@@ -7,7 +7,7 @@ using System.Linq;
 using System.Security.Claims;
 using System.Threading.Tasks;
 
-namespace Kino.Web.Controllers
+namespace Kino.Web.Controllers /*201227*/
 {
     [AllowAnonymous]
     public class AccountController : Controller

@@ -22,7 +22,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Kino.Web
+namespace Kino.Web /*201227*/
 {
     public class Startup
     {

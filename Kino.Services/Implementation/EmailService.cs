@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using MimeKit.Text;
 
-namespace Kino.Services.Implementation
+namespace Kino.Services.Implementation /*201227*/
 {
     public class EmailService:IEmailService
     {

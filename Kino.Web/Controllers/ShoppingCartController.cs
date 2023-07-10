@@ -4,7 +4,7 @@ using System;
 using Stripe;
 using Kino.Services.Interface;
 
-namespace Kino.Web.Controllers
+namespace Kino.Web.Controllers /*201227*/
 {
     public class ShoppingCartController : Controller
     {

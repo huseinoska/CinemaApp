@@ -8,7 +8,7 @@ using System.Net.Mail;
 using System.Reflection.Emit;
 using System.Text;
 
-namespace Kino.Repository
+namespace Kino.Repository /*201227*/
 {
     public class ApplicationDbContext : IdentityDbContext<KinoUser>
     {

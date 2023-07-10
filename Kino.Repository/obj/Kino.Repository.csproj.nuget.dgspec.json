@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Repository\\Kino.Repository.csproj": {}
+    "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Repository\\Kino.Repository.csproj": {}
   },
   "projects": {
-    "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Domain\\Kino.Domain.csproj": {
+    "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Domain\\Kino.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Domain\\Kino.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Domain\\Kino.Domain.csproj",
         "projectName": "Kino.Domain",
-        "projectPath": "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Domain\\Kino.Domain.csproj",
-        "packagesPath": "C:\\Users\\Beqir\\.nuget\\packages\\",
-        "outputPath": "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Domain\\obj\\",
+        "projectPath": "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Domain\\Kino.Domain.csproj",
+        "packagesPath": "C:\\Users\\veNom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Beqir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\veNom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,26 +60,40 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Repository\\Kino.Repository.csproj": {
+    "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Repository\\Kino.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Repository\\Kino.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Repository\\Kino.Repository.csproj",
         "projectName": "Kino.Repository",
-        "projectPath": "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Repository\\Kino.Repository.csproj",
-        "packagesPath": "C:\\Users\\Beqir\\.nuget\\packages\\",
-        "outputPath": "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Repository\\obj\\",
+        "projectPath": "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Repository\\Kino.Repository.csproj",
+        "packagesPath": "C:\\Users\\veNom\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Beqir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\veNom\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -93,8 +107,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Domain\\Kino.Domain.csproj": {
-                "projectPath": "F:\\IMPORTANTTTTTTTTTTTTTTTTTTTT\\FINKI\\Reopsitory\\Integrirani-Sistemi-Domashna\\Kino.Domain\\Kino.Domain.csproj"
+              "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Domain\\Kino.Domain.csproj": {
+                "projectPath": "C:\\Users\\veNom\\OneDrive\\Masaüstü\\CinemaApp\\Kino.Domain\\Kino.Domain.csproj"
               }
             }
           }
@@ -133,12 +147,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

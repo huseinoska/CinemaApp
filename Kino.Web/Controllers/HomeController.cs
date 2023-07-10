@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
-namespace Kino.Web.Controllers
+namespace Kino.Web.Controllers /*201227*/
 {
    
     public class HomeController : Controller

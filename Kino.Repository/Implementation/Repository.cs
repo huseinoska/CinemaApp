@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Kino.Repository.Implementation
+namespace Kino.Repository.Implementation /*201227*/
 {
     public class Repository<T> : IRepository<T> where T : BaseEntity
     {
